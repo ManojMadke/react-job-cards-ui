@@ -27,7 +27,7 @@ Each card dynamically displays:
 * Employment type
 * Experience level
 * Salary
-* Location
+
 * Save button
 * Apply Now button
 
