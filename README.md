@@ -77,9 +77,8 @@ This project helped me practice the following React concepts:
 │
 ├── src/
 │   ├── assets/
-│   │   ├── hero.png
-│   │   ├── react.svg
-│   │   └── vite.svg
+│   │   ├── desktop-1.png
+│   │   └── desktop-2.png
 │   │
 │   ├── components/
 │   │   └── card.jsx
