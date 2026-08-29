@@ -74,6 +74,18 @@ This project helped me practice the following React concepts:
 4-cards-project/
 │
 ├── public/
+|   ├── Google.webp
+│   ├── Microsoft.png
+│   ├── Netflix.png
+|   ├── Tesla.png
+│   ├── airbnb.png
+│   ├── amazon.jpg
+|   ├── apple.jpg
+│   ├── dribbble.svg
+│   ├── ibm.svg
+|   ├── meta.png
+│   ├── nvidia.jpg
+│   └── oracle.png
 │
 ├── src/
 │   ├── assets/
